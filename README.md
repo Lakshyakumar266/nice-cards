@@ -4,7 +4,6 @@
 This project is **private** and proprietary — not intended for open-source distribution.
 
 ---
-
 ## ✨ Key Features
 
 - 🎨 **PDF Editor**: Interactive PDF editing with rich text overlays (Slate.js), custom shapes, and images
